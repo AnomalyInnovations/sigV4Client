@@ -1,5 +1,5 @@
 # sigV4Client
-A standalone client for signing API Gateway requests for Signature Version 4. For more details follow the steps from this chapter in the [Serverless Stack tutorial](https://serverless-stack.com/chapters/connect-to-api-gateway-with-iam-auth.html).
+A standalone client for signing API Gateway requests for Signature Version 4. For more details, follow the steps from this chapter in the [Serverless Stack tutorial](https://serverless-stack.com/chapters/connect-to-api-gateway-with-iam-auth.html).
 
 
 ### How to use
