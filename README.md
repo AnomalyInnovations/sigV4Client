@@ -4,6 +4,8 @@ A standalone client for signing API Gateway requests for Signature Version 4. Fo
 
 ### How to use
 
+You need [crypto-js](https://github.com/brix/crypto-js) installed.
+
 Copy [**`sigV4Client.js`**](https://raw.githubusercontent.com/AnomalyInnovations/sigV4Client/master/sigV4Client.js) to your project.
 
 
